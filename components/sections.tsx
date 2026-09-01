@@ -27,8 +27,8 @@ export function Location() {
         <Reveal delay={70}>
           <div className="frame h-full min-h-[340px]">
             <img
-              src="/images/location.svg"
-              alt="موقع مدن رأس الحكمة على الساحل الشمالي"
+              src="/images/masterplan.webp"
+              alt="الماستر بلان الرسمي لوادي يم رأس الحكمة"
               className="h-full w-full object-cover"
             />
           </div>
@@ -67,12 +67,12 @@ export function Amenities() {
 }
 
 const shots = [
-  { src: "/images/gallery-1.svg", alt: "الواجهة البحرية والممشى" },
-  { src: "/images/gallery-2.svg", alt: "المارينا واليخوت" },
-  { src: "/images/gallery-3.svg", alt: "ملعب الجولف" },
-  { src: "/images/gallery-4.svg", alt: "اللاجونز الكريستالية" },
-  { src: "/images/gallery-5.svg", alt: "الفلل بإطلالة البحر" },
-  { src: "/images/gallery-6.svg", alt: "ساحة المدينة عند الغروب" },
+  { src: "/images/community-aerial.webp", alt: "منظر جوي للمجتمع على الواجهة البحرية" },
+  { src: "/images/marina.webp", alt: "القناة المائية وجهة المارينا" },
+  { src: "/images/arrival-lobby.webp", alt: "مدخل الريزيدنسز واللوبي" },
+  { src: "/images/pool-view.webp", alt: "حمامات السباحة الإنفينيتي" },
+  { src: "/images/townhouse-living.webp", alt: "غرفة معيشة تاون هاوس" },
+  { src: "/images/promenade.webp", alt: "ممشى الواجهة البحرية" },
 ];
 
 export function Gallery() {

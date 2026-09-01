@@ -32,7 +32,14 @@ const cards: Card[] = products.flatMap((p) =>
       price: u.price,
       eoi: p.eoi,
       years: p.years,
-      image: p.image,
+      image:
+        g.title === "الفلل"
+          ? "/images/community-aerial.webp"
+          : g.title === "تاون هاوس ووتر فرونت"
+          ? "/images/townhouse-living.webp"
+          : g.title === "الدوبلكس"
+          ? "/images/pool-view.webp"
+          : "/images/arrival-lobby.webp",
       note: g.note,
     }))
   )

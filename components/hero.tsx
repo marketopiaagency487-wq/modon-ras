@@ -15,7 +15,7 @@ export default function Hero() {
     <section id="top" className="relative overflow-hidden bg-ink">
       <div className="absolute inset-0">
         <img
-          src="/images/hero.svg"
+          src="/images/hero.webp"
           alt="مدن رأس الحكمة على البحر المتوسط"
           className="kenburns h-full w-full object-cover opacity-55"
         />

@@ -75,7 +75,7 @@ export default function Calculator() {
                 step={1}
                 value={downPct}
                 onChange={(e) => setDownPct(Number(e.target.value))}
-                className="mt-3 w-full accent-[#a97c3c]"
+                className="mt-3 w-full accent-[#b28a45]"
               />
 
               <div className="mt-6">

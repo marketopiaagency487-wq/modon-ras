@@ -42,7 +42,7 @@ export function Reveal({
 }
 
 export function Ribbon({ light = false }: { light?: boolean }) {
-  const stroke = light ? "#dcb072" : "#a97c3c";
+  const stroke = light ? "#e8c88a" : "#b28a45";
   return (
     <svg
       viewBox="0 0 320 46"

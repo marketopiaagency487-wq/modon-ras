@@ -30,8 +30,8 @@ export default function Developer() {
         <Reveal>
           <div className="frame h-full min-h-[320px]">
             <img
-              src="/images/yemm-views.svg"
-              alt="مشروعات مدن القابضة"
+              src="/images/townhouse-living.webp"
+              alt="تشطيبات وحدات وادي يم"
               loading="lazy"
               className="h-full w-full object-cover"
             />

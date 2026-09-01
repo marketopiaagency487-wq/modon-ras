@@ -28,19 +28,19 @@ export const metadata: Metadata = {
     title: "مدن رأس الحكمة — وادي يم على البحر المتوسط",
     description:
       "71 فيلا بإطلالة بحرية مباشرة في يم فيوز، وشقق ودوبلكس وتاون هاوس على المارينا. مقدم 5% وتقسيط 8 سنوات.",
-    images: [{ url: "/images/hero.svg", width: 1600, height: 900 }],
+    images: [{ url: "/images/hero.webp", width: 1600, height: 900 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "مدن رأس الحكمة — وادي يم",
     description: "فلل وشقق على البحر المتوسط. مقدم 5% وتقسيط 8 سنوات.",
-    images: ["/images/hero.svg"],
+    images: ["/images/hero.webp"],
   },
   robots: { index: true, follow: true },
 };
 
 export const viewport: Viewport = {
-  themeColor: "#07202b",
+  themeColor: "#063d4c",
   width: "device-width",
   initialScale: 1,
 };
