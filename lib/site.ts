@@ -4,7 +4,7 @@
 
 export const site = {
   url: "https://modon-raselhekma.com", // ← غيّرها بالدومين الفعلي
-  agency: "Grandeur Spaces",
+  agency: "Nurline",
   project: "مدن رأس الحكمة",
   projectEn: "Modon Ras El Hekma",
   phase: "وادي يم",
@@ -16,7 +16,7 @@ export const site = {
   phoneIntl: "+201117322733",
   phoneDisplay: "0111 732 2733",
   whatsapp: "201117322733",
-  email: "leads@grandeur-spaces.com",
+  email: "info@nurlinebrokerage.com",
 
   // ← ضع مفتاح Web3Forms هنا قبل النشر
   web3forms: "REPLACE_WITH_WEB3FORMS_ACCESS_KEY",
