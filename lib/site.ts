@@ -3,7 +3,7 @@
 // ─────────────────────────────────────────────────────────────
 
 export const site = {
-  url: "https://modon-raselhekma.com", // ← غيّرها بالدومين الفعلي
+  url: "https://modon-raselhekma.org", // ← غيّرها بالدومين الفعلي
   agency: "Nurline",
   project: "مدن رأس الحكمة",
   projectEn: "Modon Ras El Hekma",
@@ -19,7 +19,7 @@ export const site = {
   email: "info@nurlinebrokerage.com",
 
   // ← ضع مفتاح Web3Forms هنا قبل النشر
-  web3forms: "REPLACE_WITH_WEB3FORMS_ACCESS_KEY",
+  web3forms: "8eb13b87-e5e9-4dd4-86b3-7ea70235387e",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
   gtag: "AW-XXXXXXXXXX",
