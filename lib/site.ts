@@ -22,11 +22,11 @@ export const site = {
   web3forms: "8eb13b87-e5e9-4dd4-86b3-7ea70235387e",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
-  gtag: "AW-XXXXXXXXXX",
+  gtag: "AW-18415349910",
   conv: {
-    form: "AW-XXXXXXXXXX/FORM_LABEL",
-    whatsapp: "AW-XXXXXXXXXX/WA_LABEL",
-    call: "AW-XXXXXXXXXX/CALL_LABEL",
+    form: "AW-18415349910/4P6LCNjqivQcEJbhj81E",
+    whatsapp: "AW-18415349910/T_ttCN7qivQcEJbhj81E",
+    call: "AW-18415349910/nr0ACNvqivQcEJbhj81E",
   },
 } as const;
 
