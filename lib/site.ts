@@ -12,21 +12,21 @@ export const site = {
   developer: "مدن القابضة الإماراتية",
   developerEn: "Modon Holding",
 
-  phone: "01117322733",
-  phoneIntl: "+201117322733",
-  phoneDisplay: "0111 732 2733",
-  whatsapp: "201117322733",
+  phone: "01001050018",
+  phoneIntl: "+201001050018",
+  phoneDisplay: "01001050018",
+  whatsapp: "201001050018",
   email: "info@nurlinebrokerage.com",
 
   // ← ضع مفتاح Web3Forms هنا قبل النشر
   web3forms: "8eb13b87-e5e9-4dd4-86b3-7ea70235387e",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
-  gtag: "AW-18415349910",
+  gtag: "",
   conv: {
-    form: "AW-18415349910/4P6LCNjqivQcEJbhj81E",
-    whatsapp: "AW-18415349910/T_ttCN7qivQcEJbhj81E",
-    call: "AW-18415349910/nr0ACNvqivQcEJbhj81E",
+    form: "",
+    whatsapp: "",
+    call: "",
   },
 } as const;
 
