@@ -12,11 +12,11 @@ export const site = {
   developer: "مدن القابضة الإماراتية",
   developerEn: "Modon Holding",
 
-  phone: "01001050018",
-  phoneIntl: "+201001050018",
-  phoneDisplay: "01001050018",
-  whatsapp: "201001050018",
-  email: "info@nurlinebrokerage.com",
+  phone: "01040779799",
+  phoneIntl: "+201040779799",
+  phoneDisplay: "01040779799",
+  whatsapp: "201040779799",
+  email: "mostafaraafat135@gmail.com",
 
   // ← ضع مفتاح Web3Forms هنا قبل النشر
   web3forms: "8eb13b87-e5e9-4dd4-86b3-7ea70235387e",
