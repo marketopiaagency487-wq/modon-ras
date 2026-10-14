@@ -12,11 +12,11 @@ export const site = {
   developer: "مدن القابضة الإماراتية",
   developerEn: "Modon Holding",
 
-  phone: "01040779799",
-  phoneIntl: "+201040779799",
-  phoneDisplay: "01040779799",
-  whatsapp: "201040779799",
-  email: "mostafaraafat135@gmail.com",
+  phone: "01038154693⁩",
+  phoneIntl: "+201038154693",
+  phoneDisplay: "01038154693",
+  whatsapp: "201038154693",
+  email: "info@modon-raselhekma.org",
 
   // ← ضع مفتاح Web3Forms هنا قبل النشر
   web3forms: "8eb13b87-e5e9-4dd4-86b3-7ea70235387e",
